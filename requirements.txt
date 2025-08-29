@@ -2,6 +2,7 @@ sentence-transformers
 langchain
 streamlit
 pypdf
+rank-bm25
 python-dotenv
 langchain-pinecone
 langchain-community
