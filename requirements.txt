@@ -1,0 +1,10 @@
+sentence-transformers
+langchain
+streamlit
+pypdf
+python-dotenv
+langchain-pinecone
+langchain-community
+pyairtable
+langchain-openai
+-e .
